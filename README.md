@@ -8,7 +8,7 @@
 
 <h3 align="left">About:</h3>
 
-- 🌱 I’m currently learning **AWS Devops**
+- 🌱 I’m currently trying to proficient in **AWS Devops**
 
 - I work on DevOps, Microservices, containers, and everything around it.
 - I’m looking to collaborate on Cloud-native Projects
